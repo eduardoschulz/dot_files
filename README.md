@@ -1,1 +1,11 @@
-My config files for i3 and Polybar
+# My config files!
+
+Default Software:
+
+ - i3-gaps
+ - polybar
+ - picom
+ - termite
+ - pywal
+ - spicetify
+ 
